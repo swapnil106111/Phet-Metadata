@@ -1,7 +1,9 @@
 # Phet-Metadata
 
 sudo apt-get install git
+
 sudo apt-get install python3-tk
+
 sudo apt-get install python-xlsxwriter
 
 https://stackoverflow.com/questions/29934032/virtualenv-python-3-ubuntu-14-04-64-bit

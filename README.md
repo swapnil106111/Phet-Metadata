@@ -12,9 +12,9 @@ Activate a environment:
 
 pip3 install ricecooker
 
-git clone 
+git clone https://github.com/swapnil106111/Phet-Metadata.git
 
-cd 
+cd Phet-Metadata
 
 python chef.py --token=<<your_token_id>>
 

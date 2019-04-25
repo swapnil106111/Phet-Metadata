@@ -16,7 +16,7 @@ git clone https://github.com/swapnil106111/Phet-Metadata.git
 
 cd Phet-Metadata
 
-python chef.py 
+python phet.py 
 
 
 
